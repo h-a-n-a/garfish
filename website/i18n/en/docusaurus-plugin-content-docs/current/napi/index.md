@@ -18,23 +18,11 @@ The_END ---
 ## Garfish Instance Methods
 
 - [Garfish.run](/napi/new#run)
-  <! -- - [Garfish.setExternal](/napi#setexternal) -->
 - [Garfish.registerApp](/napi/new#registerapp)
 - [Garfish.loadApp](/napi/new#loadapp)
 
 ## Garfish Instance Properties
 
-<! -- + [Garfish.options](/napi/attributes#options) -->
-
 - [Garfish.router](/napi/attributes/router)
 - [Garfish.loadApp](/napi/attributes/loadApp)
 - [Garfish.props](/napi/attributes/props)
-
-<! --
-
-## App Instance Methods
-
-- [app.show]()
-- [app.hide]()
-- [app.mount]()
-- [app.unmount]() -->
